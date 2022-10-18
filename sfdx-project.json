@@ -1,9 +1,16 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app"
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "package": "FinalPackage",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "",
+    "sourceApiVersion": "39.0",
+    "packageAliases": {
+        "FinalPackage": "0Ho5g000000Cas9CAC"
     }
-  ],
-  "namespace": "",
-  "sourceApiVersion": "39.0"
 }
