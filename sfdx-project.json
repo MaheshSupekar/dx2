@@ -12,6 +12,7 @@
     "sourceApiVersion": "39.0",
     "packageAliases": {
         "FinalPackage": "0Ho5g000000Cas9CAC",
-        "FinalPackage@1.0.0-1-master": "04t5g000000dSisAAE"
+        "FinalPackage@1.0.0-1-master": "04t5g000000dSisAAE",
+        "FinalPackage@1.0.0-2-master": "04t5g000000dSjMAAU"
     }
 }
