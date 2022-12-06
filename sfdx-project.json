@@ -6,6 +6,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": true
+        },
+        {
+            "path": "force/app/main/default",
+            "package": "Mahesh-DX",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -13,6 +20,7 @@
     "packageAliases": {
         "FinalPackage": "0Ho5g000000Cas9CAC",
         "FinalPackage@1.0.0-1-master": "04t5g000000dSisAAE",
-        "FinalPackage@1.0.0-2-master": "04t5g000000dSjMAAU"
+        "FinalPackage@1.0.0-2-master": "04t5g000000dSjMAAU",
+        "Mahesh-DX": "0Ho5g000000CavDCAS"
     }
 }
